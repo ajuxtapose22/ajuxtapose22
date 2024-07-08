@@ -1,16 +1,39 @@
-## Hi there 👋
+## 🌟 About Me
 
-<!--
-**ajuxtapose22/ajuxtapose22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Aaron Jardin, a passionate Full Stack Web Developer and Software Engineer. While I am still building my background in front-end and back-end technologies, I am enthusiastic about learning and creating. I love to create in general, with a particular passion for music, video editing/VFX, and coding. Currently, I'm focused on building modern web applications and exploring the digital world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+**🌐 Frontend:** HTML | CSS | JavaScript | React | Bootstrap | Tailwind CSS  
+**💻 Backend:** Node.js | Express | RESTful APIs  
+**🛢 Databases:** Firestore | Realtime Database | Firebase Authentication  
+**🎨 Design Tools:** Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, XD)  
+**🎥 Multimedia:** Video Editing | Audio Editing  
+**🖥 Hardware:** Computer Hardware | Building PCs  
+**🎸 Music Production:** Logic Pro | Pro Tools | FL Studio  
+**📊 Analytics:** Google Analytics  
+
+---
+
+<h3>📚 Currently Learning</h3>
+
+**🌐 Frontend Frameworks:** Vue.js | Next.js  
+**🛢 Firebase Services:** Firebase (Cloud Functions, Hosting)  
+**🛠 State Management:** Deepening knowledge in Redux for state management  
+**📈 API Technologies:** Exploring GraphQL for efficient API queries  
+**💡 Programming Languages:** Learning TypeScript for improved code quality  
+**🎨 CSS Pre-processors:** Studying SASS/SCSS for advanced CSS pre-processing  
+**🐳 Containerization:** Experimenting with Docker for containerization  
+**☸️ Orchestration:** Understanding Kubernetes for container orchestration  
+**🛢 Databases:** Diving into MongoDB for NoSQL database management | Learning MySQL  
+**☁️ Cloud Services:** Gaining expertise in AWS, GCP, and Azure for cloud services  
+
+---
+
+<h3>📫 Contact</h3>
+
+- **Email:** [aaronjardin@gmail.com](mailto:aaronjardin@gmail.com)
+- **LinkedIn:** [Aaron Jardin](https://www.linkedin.com/in/aaronjardin/)
+- **Portfolio:** [Lightshot Media](https://lightshotmedia.com/portfolio)
