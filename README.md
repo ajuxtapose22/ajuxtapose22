@@ -37,3 +37,32 @@ Hello! I'm Aaron Jardin, a passionate Full Stack Web Developer and Software Engi
 - **Email:** [aaronjardin@gmail.com](mailto:aaronjardin@gmail.com)
 - **LinkedIn:** [Aaron Jardin](https://www.linkedin.com/in/aaronjardin/)
 - **Portfolio:** [Lightshot Media](https://lightshotmedia.com/portfolio)
+
+</br></br>
+##### <h3> It Makes Sense If You Don't Think About It </h3> 
+
+
+```javascript
+// Overengineering a solution
+
+function boilWater() {
+  console.log('Boiling water...');
+}
+
+function brewCoffee() {
+  console.log('Brewing coffee...');
+}
+
+function drinkCoffee() {
+  console.log('Enjoying a cup of coffee!');
+}
+
+function makeCoffee() {
+  boilWater();
+  brewCoffee();
+  drinkCoffee();
+}
+
+makeCoffee();
+
+```
