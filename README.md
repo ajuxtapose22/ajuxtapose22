@@ -19,7 +19,7 @@ Hello! I'm Aaron Jardin, a passionate Full Stack Web Developer and Software Engi
 
 <h3>📚 Currently Learning</h3>
 
-**🌐 Frontend Frameworks:** Vue.js | Next.js  
+**🌐 Frontend Frameworks:** Vue.js | Next.js | Builder.io | Mitosis
 **🛢 Firebase Services:** Firebase (Cloud Functions, Hosting)  
 **🛠 State Management:** Deepening knowledge in Redux for state management  
 **📈 API Technologies:** Exploring GraphQL for efficient API queries  
@@ -29,6 +29,7 @@ Hello! I'm Aaron Jardin, a passionate Full Stack Web Developer and Software Engi
 **☸️ Orchestration:** Understanding Kubernetes for container orchestration  
 **🛢 Databases:** Diving into MongoDB for NoSQL database management | Learning MySQL  
 **☁️ Cloud Services:** Gaining expertise in AWS, GCP, and Azure for cloud services  
+**🔌 Real-time Communication:** Learning Socket.io
 
 ---
 
