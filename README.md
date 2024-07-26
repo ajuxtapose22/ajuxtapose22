@@ -13,7 +13,6 @@ I am currently on a journey to become a Full Stack Web Developer and Software En
 **🛢 Databases:** ![Firestore](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firestore | ![Realtime Database](https://img.icons8.com/color/16/000000/google-firebase-console.png) Realtime Database | ![Firebase Authentication](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase Authentication  
 **🎨 Design Tools:** ![Adobe Creative Suite](https://img.icons8.com/color/16/000000/adobe-creative-cloud.png) Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, XD)  
 **🎥 Multimedia:** ![Video Editing](https://img.icons8.com/color/16/000000/video-editing.png) Video Editing | ![Audio Editing](https://img.icons8.com/color/16/000000/audio-wave.png) Audio Editing  
-**🖥 Hardware:** ![Computer Hardware](https://img.icons8.com/color/16/000000/computer.png) Computer Hardware | ![Building PCs](https://img.icons8.com/color/16/000000/pc-on-desk.png) Building PCs  
 **🎸 Music Production:** Logic Pro |  Pro Tools | FL Studio  
 **📊 Analytics:** ![Google Analytics](https://img.icons8.com/color/16/000000/google-analytics.png) Google Analytics  
 
