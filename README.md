@@ -2,7 +2,7 @@
 
 Hey, I'm Aaron!
 
-I am currently on a journey to become a Full Stack Web Developer and Software Engineer. I'm enthusiastic about learning and creating across various domains. I have a deep passion for creating music in all genres, from metal to opera. In my free time, you'll find me skateboarding, editing videos with visual effects, or diving into video games. I am excited about the endless possibilities in technology and how it intertwines with my interests in music, film, and science.
+I am currently on a journey to become a Full Stack Web Developer and Software Engineer. I'm enthusiastic about learning and creating across various domains. I have a deep passion for creating music in all genres, from metal to indie folk songs. In my free time, you'll find me building websites/apps, skateboarding, and editing videos with visual effects.
 
 ---
 
