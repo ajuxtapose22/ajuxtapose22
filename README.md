@@ -38,7 +38,6 @@ I am currently on a journey to become a Full Stack Web Developer and Software En
 
 - **Email:** [aaronjardin@gmail.com](mailto:aaronjardin@gmail.com)
 - **LinkedIn:** [Aaron Jardin](https://www.linkedin.com/in/aaronjardin/)
-- **Portfolio:** [Lightshot Media](https://lightshotmedia.com/portfolio)
 
 </br></br>
 ##### <h3> Coding and Procrastination </h3> 
