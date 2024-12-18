@@ -10,28 +10,16 @@ I am a Full Stack Web Developer, Photographer and Video Editor. I'm enthusiastic
 
 **🌐 Frontend:** <br>
 ![HTML5](https://img.icons8.com/color/16/000000/html-5.png) HTML | ![CSS3](https://img.icons8.com/color/16/000000/css3.png) CSS | ![JavaScript](https://img.icons8.com/color/16/000000/javascript.png) JavaScript | ![React](https://img.icons8.com/color/16/000000/react-native.png) React | ![Bootstrap](https://img.icons8.com/color/16/000000/bootstrap.png) Bootstrap <br/>
-
 **💻 Backend:** <br>
 ![Node.js](https://img.icons8.com/color/16/000000/nodejs.png) Node.js | ![Express](https://img.icons8.com/ios/16/000000/express-js.png) Express | ![RESTful APIs](https://img.icons8.com/color/16/000000/api-settings.png) RESTful APIs  
-
 **🛢 Databases:** <br>
 ![Firestore](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firestore | ![Realtime Database](https://img.icons8.com/color/16/000000/google-firebase-console.png) Realtime Database | ![Firebase Authentication](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase Authentication  | ![MySQL](https://img.icons8.com/color/16/000000/mysql-logo.png) Learning MySQL  
-
 **🛢 Firebase Services:** <br>
 ![Firebase](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase (Cloud Functions, Hosting)  
-
-**🛠 State Management:** <br>
-![Redux](https://img.icons8.com/color/16/000000/redux.png) Deepening knowledge in Redux for state management  
-
-**📈 API Technologies:** <br>
-![GraphQL](https://img.icons8.com/color/16/000000/graphql.png) Exploring GraphQL for efficient API queries  
-
 **🎨 Design Tools:** <br>
 ![Adobe Creative Suite](https://img.icons8.com/color/16/000000/adobe-creative-cloud.png) Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, XD)  
-
 **🎥 Multimedia:**
 ![Video Editing](https://img.icons8.com/color/16/000000/video-editing.png) Video Editing | ![Audio Editing](https://img.icons8.com/color/16/000000/audio-wave.png) Audio Editing  
-
 **🎸 Music Production:**
 Logic Pro |  Pro Tools | FL Studio  
 **📊 Analytics:** ![Google Analytics](https://img.icons8.com/color/16/000000/google-analytics.png) Google Analytics  
