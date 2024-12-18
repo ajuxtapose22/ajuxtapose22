@@ -23,8 +23,8 @@ Logic Pro |  Pro Tools | FL Studio
 
 <h3>📚 Always Learning</h3>
 
-**🌐 Frontend Frameworks:** ![Vue.js](https://img.icons8.com/color/16/000000/vue-js.png) Vue.js | ![Next.js](https://img.icons8.com/fluency/16/000000/nextjs.png) Next.js | <img src="https://api.iconify.design/logos/builder-io-icon.svg" alt="Builder.io" width="16" height="16"> Builder.io 
-**🎨 CSS Pre-processors:** ![SASS/SCSS](https://img.icons8.com/color/16/000000/sass.png) SASS/SCSS (Advanced CSS pre-processing)  
+**🌐 Frontend Frameworks:** ![Vue.js](https://img.icons8.com/color/16/000000/vue-js.png) Vue.js | ![Next.js](https://img.icons8.com/fluency/16/000000/nextjs.png) Next.js | <img src="https://api.iconify.design/logos/builder-io-icon.svg" alt="Builder.io" width="16" height="16"> Builder.io <br>
+**🎨 CSS Pre-processors:** ![SASS/SCSS](https://img.icons8.com/color/16/000000/sass.png) SASS/SCSS (Advanced CSS pre-processing)  <br>
 **🐳 Containerization:** ![Docker](https://img.icons8.com/color/16/000000/docker.png) Docker (containerization)  
 **☸️ Orchestration:** ![Kubernetes](https://img.icons8.com/color/16/000000/kubernetes.png) Kubernetes (container orchestration)  
 **🛢 Databases:** ![MongoDB](https://img.icons8.com/color/16/000000/mongodb.png) MongoDB  
