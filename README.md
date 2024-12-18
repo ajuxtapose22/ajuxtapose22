@@ -10,6 +10,7 @@ I am a Full Stack Web Developer, Photographer and Video Editor. I'm enthusiastic
 
 **🌐 Frontend:** <br>
 ![HTML5](https://img.icons8.com/color/16/000000/html-5.png) HTML | ![CSS3](https://img.icons8.com/color/16/000000/css3.png) CSS | ![JavaScript](https://img.icons8.com/color/16/000000/javascript.png) JavaScript | ![React](https://img.icons8.com/color/16/000000/react-native.png) React | ![Bootstrap](https://img.icons8.com/color/16/000000/bootstrap.png) Bootstrap <br/>
+
 **💻 Backend:** ![Node.js](https://img.icons8.com/color/16/000000/nodejs.png) Node.js | ![Express](https://img.icons8.com/ios/16/000000/express-js.png) Express | ![RESTful APIs](https://img.icons8.com/color/16/000000/api-settings.png) RESTful APIs  
 **🛢 Databases:** ![Firestore](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firestore | ![Realtime Database](https://img.icons8.com/color/16/000000/google-firebase-console.png) Realtime Database | ![Firebase Authentication](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase Authentication  | ![MySQL](https://img.icons8.com/color/16/000000/mysql-logo.png) Learning MySQL  
 **🛢 Firebase Services:** ![Firebase](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase (Cloud Functions, Hosting)  
