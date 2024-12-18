@@ -2,7 +2,7 @@
 
 Hey, I'm Aaron!
 
-I am a Full Stack Web Developer, Photographer and Video Editor. I'm enthusiastic about learning and creating across various domains. In my free time, you'll find me building websites/apps, caputring memories, and editing videos with visual effects. I also have a deep passion for creating music in all genres, from metal to orchestral sountracks to indie folk songs.
+I am a Full Stack Web Developer, Photographer and Video Editor. I'm enthusiastic about learning and creating across various domains. In my free time, you'll find me building websites/apps, creating databases (REST APIs), caputring memories, and editing videos with visual effects. I also have a deep passion for creating music in all genres, from metal to orchestral sountracks to indie folk songs.
 
 ---
 
