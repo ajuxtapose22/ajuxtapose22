@@ -13,7 +13,7 @@ I am a Full Stack Web Developer, Photographer and Video Editor. I'm enthusiastic
 **💻 Backend:** 
 ![Node.js](https://img.icons8.com/color/16/000000/nodejs.png) Node.js | ![Express](https://img.icons8.com/ios/16/000000/express-js.png) Express | ![RESTful APIs](https://img.icons8.com/color/16/000000/api-settings.png) RESTful APIs  
 **🛢 Databases:** 
-![Realtime Database](https://img.icons8.com/color/16/000000/google-firebase-console.png) Realtime Database | ![Firebase Authentication](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase  | ![MySQL](https://img.icons8.com/color/16/000000/mysql-logo.png) Learning MySQL  
+![Realtime Database](https://img.icons8.com/color/16/000000/google-firebase-console.png) Realtime Database | ![Firebase Authentication](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase  | ![MySQL](https://img.icons8.com/color/16/000000/mysql-logo.png) MySQL & SQLite 
 **🎨 Design Tools:**
 ![Adobe Creative Suite](https://img.icons8.com/color/16/000000/adobe-creative-cloud.png) Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, XD)  
 **🎸 Music Production:**
@@ -27,7 +27,7 @@ Logic Pro |  Pro Tools | FL Studio
 **🎨 CSS Pre-processors:** ![SASS/SCSS](https://img.icons8.com/color/16/000000/sass.png) SASS/SCSS (Advanced CSS pre-processing)  
 **🐳 Containerization:** ![Docker](https://img.icons8.com/color/16/000000/docker.png) Docker (containerization)  
 **☸️ Orchestration:** ![Kubernetes](https://img.icons8.com/color/16/000000/kubernetes.png) Kubernetes (container orchestration)  
-**🛢 Databases:** ![MongoDB](https://img.icons8.com/color/16/000000/mongodb.png) MongoDB for NoSQL database management 
+**🛢 Databases:** ![MongoDB](https://img.icons8.com/color/16/000000/mongodb.png) MongoDB  
 <br>
 **☁️ Cloud Services:** ![AWS](https://img.icons8.com/color/16/000000/amazon-web-services.png) AWS, GCP, and Azure  
 **🔌 Real-time Communication:** <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.io" width="16" height="16"> Learning Socket.io
