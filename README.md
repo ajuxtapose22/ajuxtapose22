@@ -15,7 +15,7 @@ I am a Full Stack Web Developer, Photographer and Video Editor. I'm enthusiastic
 **🛢 Databases:** 
 ![Realtime Database](https://img.icons8.com/color/16/000000/google-firebase-console.png) Realtime Database | ![Firebase Authentication](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase  | ![MySQL](https://img.icons8.com/color/16/000000/mysql-logo.png) MySQL & SQLite <br>
 **🎨 Design Tools:**
-![Adobe Creative Suite](https://img.icons8.com/color/16/000000/adobe-creative-cloud.png) Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, XD)  
+![Adobe Creative Suite](https://img.icons8.com/color/16/000000/adobe-creative-cloud.png) Adobe Creative Suite (Photoshop, XD, Ilustrator)  
 **🎸 Music Production:**
 Logic Pro |  Pro Tools | FL Studio  
 
