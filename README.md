@@ -13,7 +13,7 @@ I am a Full Stack Web Developer, Photographer and Video Editor. I'm enthusiastic
 **💻 Backend:** 
 ![Node.js](https://img.icons8.com/color/16/000000/nodejs.png) Node.js | ![Express](https://img.icons8.com/ios/16/000000/express-js.png) Express | ![RESTful APIs](https://img.icons8.com/color/16/000000/api-settings.png) RESTful APIs  
 **🛢 Databases:** 
-![Firestore](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firestore | ![Realtime Database](https://img.icons8.com/color/16/000000/google-firebase-console.png) Realtime Database | ![Firebase Authentication](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase | ![MySQL](https://img.icons8.com/color/16/000000/mysql-logo.png) Learning MySQL  
+![Realtime Database](https://img.icons8.com/color/16/000000/google-firebase-console.png) Realtime Database | ![Firebase Authentication](https://img.icons8.com/color/16/000000/google-firebase-console.png) Firebase  | ![MySQL](https://img.icons8.com/color/16/000000/mysql-logo.png) Learning MySQL  
 **🎨 Design Tools:**
 ![Adobe Creative Suite](https://img.icons8.com/color/16/000000/adobe-creative-cloud.png) Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, XD)  
 **🎸 Music Production:**
