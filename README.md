@@ -21,14 +21,14 @@ Logic Pro |  Pro Tools | FL Studio
 
 ---
 
-<h3>📚 Currently Learning</h3>
+<h3>📚 Always Learning</h3>
 
-**🌐 Frontend Frameworks:** ![Vue.js](https://img.icons8.com/color/16/000000/vue-js.png) Vue.js | ![Next.js](https://img.icons8.com/fluency/16/000000/nextjs.png) Next.js | <img src="https://api.iconify.design/logos/builder-io-icon.svg" alt="Builder.io" width="16" height="16"> Builder.io | Mitosis  
-**🎨 CSS Pre-processors:** ![SASS/SCSS](https://img.icons8.com/color/16/000000/sass.png) Studying SASS/SCSS for advanced CSS pre-processing  
-**🐳 Containerization:** ![Docker](https://img.icons8.com/color/16/000000/docker.png) Experimenting with Docker for containerization  
-**☸️ Orchestration:** ![Kubernetes](https://img.icons8.com/color/16/000000/kubernetes.png) Understanding Kubernetes for container orchestration  
-**🛢 Databases:** ![MongoDB](https://img.icons8.com/color/16/000000/mongodb.png) Diving into MongoDB for NoSQL database management | 
-**☁️ Cloud Services:** ![AWS](https://img.icons8.com/color/16/000000/amazon-web-services.png) Gaining expertise in AWS, GCP, and Azure for cloud services  
+**🌐 Frontend Frameworks:** ![Vue.js](https://img.icons8.com/color/16/000000/vue-js.png) Vue.js | ![Next.js](https://img.icons8.com/fluency/16/000000/nextjs.png) Next.js | <img src="https://api.iconify.design/logos/builder-io-icon.svg" alt="Builder.io" width="16" height="16"> Builder.io 
+**🎨 CSS Pre-processors:** ![SASS/SCSS](https://img.icons8.com/color/16/000000/sass.png) SASS/SCSS (Advanced CSS pre-processing)  
+**🐳 Containerization:** ![Docker](https://img.icons8.com/color/16/000000/docker.png) Docker (containerization)  
+**☸️ Orchestration:** ![Kubernetes](https://img.icons8.com/color/16/000000/kubernetes.png) Kubernetes (container orchestration)  
+**🛢 Databases:** ![MongoDB](https://img.icons8.com/color/16/000000/mongodb.png) MongoDB for NoSQL database management | 
+**☁️ Cloud Services:** ![AWS](https://img.icons8.com/color/16/000000/amazon-web-services.png) AWS, GCP, and Azure  
 **🔌 Real-time Communication:** <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.io" width="16" height="16"> Learning Socket.io
 
 ---
